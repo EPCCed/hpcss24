@@ -49,7 +49,7 @@ You can find the image sharpening example at
 https://github.com/EPCCed/hpcss24-sharpen
 
 I will explain this program and how it works on Wednesday but for now
-we'll just be using the Python serial version in the P-SER directory
+we'll just be using the Python serial version in the `P-SER` directory
 as an example of a program that does lots of computation.
 
 On Cirrus you will need to load a module to get a suitable version of Python: `module load python/3.9.13`
@@ -73,3 +73,33 @@ Things you might like to investigate:
     and stored in an array. If you do alter the code make sure that
     the output is still correct, e.g. by comparing the output image
     `sharpened.pgm`.
+
+Tuesday AM
+
+  Ludovic will distribute his slides covering an Introduction to C
+
+Tuesday PM
+
+  As well as the pagerank example, you can look at the C version of
+  the Image Sharpening code in `C-SER`.
+
+  The exercise is described in `doc/sharpen-cirrus1.pdf` - the
+  material up to and including section 3.8 is relevant here.
+
+  Things to look at include:
+
+  * How much faster is the compiled C version compared to the Python code?
+  * Does adding compiler optimisation (e.g. `-O3`) change the performance?
+  * Does using the GNU compiler `gcc`, as opposed to Intel's `icc`,
+    change things?
+
+Wednesday AM
+
+  Here are the slides for the Introduction to HPC:
+
+  * [Why HPC] (slides/L01_WhyHPC.pdf)
+  
+L02_Sharpen.pdf
+L03_ParallelProgramming.pdf
+L04_CPUMemAcc.pdf
+L07_ParallelModels.pdf
