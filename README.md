@@ -98,8 +98,8 @@ Wednesday AM
   Here are the slides for the Introduction to HPC:
 
   * [Why HPC](slides/L01_WhyHPC.pdf)
-  
-L02_Sharpen.pdf
-L03_ParallelProgramming.pdf
-L04_CPUMemAcc.pdf
-L07_ParallelModels.pdf
+  * [Image Sharpening](slides/L02_Sharpen.pdf)
+  * [Parallel Programming](slides/L03_ParallelProgramming.pdf)
+  * [Hardware](slides/L04_CPUMemAcc.pdf)
+  * [Parallel Programming Models](slidesL07_ParallelModels.pdf)
+
