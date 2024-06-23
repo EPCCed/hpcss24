@@ -1,2 +1,10 @@
-# hpcss24
-General information page for EPCC HPC Summer School 2024
+# EPCC HPC Summer School 2024
+
+For the HPC Summer School we're using material from a range of
+existing courses so this is a central page to help collect them all
+together.
+
+## Schedule
+
+| Day | Morning | Afternoon |
+| -- | -- | --|
