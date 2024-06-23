@@ -35,6 +35,6 @@ processing, the other a simple computational fluid dynamics example.
 
 We will use Carpentries material for this session. See:
 
-  * dfd
+  * https://epcced.github.io/2024-06-19-hpc-shell-shampton/
   * dd
 
