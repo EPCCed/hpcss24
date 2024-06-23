@@ -8,6 +8,7 @@ together.
 
 | Day | Morning | Afternoon |
 | --- | ---  | --- |
+| --- | ---  | --- |
 | Mon 24 | Bash shell / git | Familiarisation / Python image sharpening |
 | Tue 25 | Introduction to C | C image sharpening |
 | Wed 26 | Introduction to HPC | Parallel image sharpening |
