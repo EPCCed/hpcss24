@@ -15,8 +15,11 @@ together.
 | Thu 27 | OpenMP for CPUs (i) | Parallel CFD example |
 | Fri 28 | OpenMP for CPUs (ii) | Parallel CFD example |
 | | | |
-| Mon 1 | | |
-| Tue 2 | | |
-| Wed 3 | | |
-| Thu 4 | | |
-| Fri 4 | | |
+| Mon 1 | OpenMP for GPUs (i) | Parallel CFD example |
+| Tue 2 | OpenMP for GPUs (i) | Parallel CFD example |
+| Wed 3 | Introduction to MPI (i) | Parallel CFD example |
+| Thu 4 | Introduction to MPI (ii) | Parallel CFD example |
+| Fri 5 | HPC Guest Lectures | Finish up exercises |
+
+## Overview
+
