@@ -35,6 +35,13 @@ processing, the other a simple computational fluid dynamics example.
 
 We will use Carpentries material for this session. See:
 
-  * https://epcced.github.io/2024-06-19-hpc-shell-shampton/
-  * dd
+  * HPC Carpentry Day 1 https://epcced.github.io/2024-06-19-hpc-shell-shampton/
+  * Introduction to git https://swcarpentry.github.io/git-novice/
+
+The HPC Carpentry material was run by EPCC very recently for a course
+on the national ARCHER2 supercomputer. We will be using a different
+HPC system at EPCC, Cirrus, but all you have to do is replace
+occurences of "ARCHER2" with "Cirrus"!
+
+### Monday PM
 
