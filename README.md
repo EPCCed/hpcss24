@@ -23,3 +23,13 @@ together.
 
 ## Overview
 
+The morning lectures will all have associated practicals. You are
+welcome to continue working on these in the afternoons, but in case
+you want to explore thinsg a bit more you can work on applying the
+morning's HCC techniques to two examples: one based on image
+processing, the other a simple computational fluid dynamics example.
+
+## Material
+
+### Monday AM
+
