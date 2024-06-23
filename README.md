@@ -97,7 +97,7 @@ Wednesday AM
 
   Here are the slides for the Introduction to HPC:
 
-  * [Why HPC] (slides/L01_WhyHPC.pdf)
+  * [Why HPC](slides/L01_WhyHPC.pdf)
   
 L02_Sharpen.pdf
 L03_ParallelProgramming.pdf
