@@ -18,7 +18,7 @@ together.
 | Mon 1 | OpenMP for GPUs (i) | Parallel CFD example |
 | Tue 2 | OpenMP for GPUs (i) | Parallel CFD example |
 | Wed 3 | Introduction to MPI (i) | Parallel CFD example |
-| Thu 4 | Introduction to MPI (ii) | Parallel CFD example |
+| Thu 4 | Introduction to MPI (ii) | ACF Visit |
 | Fri 5 | HPC Guest Lectures | Finish up exercises |
 
 ## Overview
@@ -45,3 +45,11 @@ occurences of "ARCHER2" with "Cirrus"!
 
 ### Monday PM
 
+You can find the image sharpening example at
+https://github.com/EPCCed/hpcss24-sharpen
+
+I will explain this program and how it works on Wednesday but for now
+we'll just be using the Python serial version in the P-SER directory
+as an example of a program that does lots of computation.
+
+On Cirrus you will need to load a module to get a suitable version of Python: `module load python/3.9.13`
