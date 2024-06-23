@@ -74,11 +74,11 @@ Things you might like to investigate:
     the output is still correct, e.g. by comparing the output image
     `sharpened.pgm`.
 
-Tuesday AM
+### Tuesday AM
 
   Ludovic will distribute his slides covering an Introduction to C
 
-Tuesday PM
+### Tuesday PM
 
   As well as the pagerank example, you can look at the C version of
   the Image Sharpening code in `C-SER`.
@@ -93,7 +93,7 @@ Tuesday PM
   * Does using the GNU compiler `gcc`, as opposed to Intel's `icc`,
     change things?
 
-Wednesday AM
+### Wednesday AM
 
   Here are the slides for the Introduction to HPC:
 
@@ -103,3 +103,8 @@ Wednesday AM
   * [Hardware](slides/L04_CPUMemAcc.pdf)
   * [Parallel Programming Models](slidesL07_ParallelModels.pdf)
 
+### Wednesday PM
+
+  You should work through the Image Sharpening worksheet and look at
+  the performance and parallel scalability of the code.
+  
