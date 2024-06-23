@@ -7,11 +7,16 @@ together.
 ## Schedule
 
 | Day | Morning | Afternoon |
-| -- | --  | -- |
-| |  | |
+| --- | ---  | --- |
 | Mon 24 | | |
 | Mon 24 | | |
 | Mon 24 | | |
 | Mon 24 | | |
 | Mon 24 | | |
-| |  | |
+| --- | ---  | --- |
+| Mon 24 | | |
+| Mon 24 | | |
+| Mon 24 | | |
+| Mon 24 | | |
+| Mon 24 | | |
+
