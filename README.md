@@ -33,3 +33,8 @@ processing, the other a simple computational fluid dynamics example.
 
 ### Monday AM
 
+We will use Carpentries material for this session. See:
+
+  * dfd
+  * dd
+
