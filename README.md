@@ -45,6 +45,8 @@ occurences of "ARCHER2" with "Cirrus"!
 
 ### Monday PM
 
+Here is the [claims form](docs/student_and_non_staff_expenses_claim_form.docx)
+
 You can find the image sharpening example at
 https://github.com/EPCCed/hpcss24-sharpen
 
