@@ -155,9 +155,11 @@ Things you might like to investigate:
 
 * Try running the OpenMP code - how does its performance scale with
   varying values of `OMP_NUM_THREADS`. For large values you must run
-  on the compute nodes - again, you will need to write a Slurm script.
+  on the compute nodes - again, you will need to write a Slurm
+  script. Do you seen any unusual effects when the thread count
+  exceeds 18 - can you explain this?
 
-* How does the performance scaling compare between the default
+* How does the OpenMP performance scaling compare between the default
   parameters and running with a finite value of the Reynolds number,
   e.g. 2.0? Can you see what the problem is? Can you fix it by adding
   appropriate OpenMP directives?
