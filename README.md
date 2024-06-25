@@ -109,4 +109,12 @@ Things you might like to investigate:
 
   You should work through the Image Sharpening worksheet and look at
   the performance and parallel scalability of the code.
-  
+
+  To see the code and exercise sheets, go to:
+
+    https://github.com/EPCCed/hpcss24-sharpen
+
+  To get these onto Cirrus just use:
+
+    git clone https://github.com/EPCCed/hpcss24-sharpen
+    
