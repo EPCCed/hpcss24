@@ -137,7 +137,8 @@ Things you might like to investigate:
 
   The exercise sheet only covers the serial and MPI versions of the
   cfd example. Here are some things you could consider with the serial
-  Python and parallel OpenMP versions:
+  Python and parallel OpenMP versions. When compiling code I would
+  recommend using the `-O3` optimisation level.
 
 
   * Visualising the Python output requires you to run an additional
@@ -156,8 +157,8 @@ Things you might like to investigate:
 * Try running the OpenMP code - how does its performance scale with
   varying values of `OMP_NUM_THREADS`. For large values you must run
   on the compute nodes - again, you will need to write a Slurm
-  script. Do you seen any unusual effects when the thread count
-  exceeds 18 - can you explain this?
+  script. How does this compare to MPI? Do you seen any unusual
+  effects when the thread count exceeds 18 - can you explain this?
 
 * How does the OpenMP performance scaling compare between the default
   parameters and running with a finite value of the Reynolds number,
