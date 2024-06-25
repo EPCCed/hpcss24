@@ -25,8 +25,8 @@ together.
 
 The morning lectures will all have associated practicals. You are
 welcome to continue working on these in the afternoons, but in case
-you want to explore thinsg a bit more you can work on applying the
-morning's HCC techniques to two examples: one based on image
+you want to explore things a bit more you can work on applying the
+morning's HPC techniques to two examples: one based on image
 processing, the other a simple computational fluid dynamics example.
 
 ## Material
@@ -41,7 +41,7 @@ We will use Carpentries material for this session. See:
 The HPC Carpentry material was run by EPCC very recently for a course
 on the national ARCHER2 supercomputer. We will be using a different
 HPC system at EPCC, Cirrus, but all you have to do is replace
-occurences of "ARCHER2" with "Cirrus"!
+occurrences of "ARCHER2" with "Cirrus"!
 
 ### Monday PM
 
@@ -115,4 +115,45 @@ Things you might like to investigate:
   To get these onto Cirrus just use:
 
     git clone https://github.com/EPCCed/hpcss24-sharpen
-    
+
+### Wednesday AM
+
+  Ludovic will distribute his slides covering an Introduction to OpenMP
+
+### Wednesday PM
+
+  You should work through the CFD and look at the performance and
+  parallel scalability of the code.
+
+  To see the code and exercise sheets, go to [https://github.com/EPCCed/hpcss24-cfd](https://github.com/EPCCed/hpcss24-cfd)
+
+  To get these onto Cirrus just use:
+
+    git clone https://github.com/EPCCed/hpcss24-cfd
+
+  The exercise sheet only covers the serial and MPI versions of the
+  cfd example. Here are some things you could consider with the serial
+  Python and parallel OpenMP versions:
+
+
+  * Visualising the Python output requires you to run an additional
+    program: ` python ./plot_flow.py velocity.dat colourmap.dat
+    output.png`. You can then view the PNG file with `display`.
+  * How long does the Python code take compared to the serial C code
+    (consider a small example for a reasonable runtime)?
+* Is the performance different on the login vs compute nodes (you will
+    need to write an appropriate Slurm script). What about the serial
+    C code?
+* There is a version that uses numpy arrays and array syntax rather
+    than lists and explicit loops - see `cfd_numpy` and
+    `jacobi_numpy`. How much faster is this than the basic Python
+    code? Do you understand why? Again, is there a performance difference between login and compute nodes?
+
+* Try running the OpenMP code - how does its performance scale with
+  varying values of `OMP_NUM_THREADS`. For large values you must run
+  on the compute nodes - again, you will need to write a Slurm script.
+
+* How does the performance scaling compare between the default
+  parameters and running with a finite value of the Reynolds number,
+  e.g. 2.0? Can you see what the problem is? Can you fix it by adding
+  appropriate OpenMP directives?
