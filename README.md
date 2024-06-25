@@ -122,8 +122,12 @@ Things you might like to investigate:
 
 ### Thursday PM
 
-  You should work through the CFD and look at the performance and
-  parallel scalability of the code.
+  Yoy are welcome to continue with Ludovic's OpenMP
+  exercises. However, if you want to tackle something different see
+  below:
+
+  You should work through the CFD worksheet and look at the
+  performance and parallel scalability of the code.
 
   To see the code and exercise sheets, go to [https://github.com/EPCCed/hpcss24-cfd](https://github.com/EPCCed/hpcss24-cfd)
 
