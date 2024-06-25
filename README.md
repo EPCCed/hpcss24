@@ -116,11 +116,11 @@ Things you might like to investigate:
 
     git clone https://github.com/EPCCed/hpcss24-sharpen
 
-### Wednesday AM
+### Thursday AM
 
   Ludovic will distribute his slides covering an Introduction to OpenMP
 
-### Wednesday PM
+### Thursday PM
 
   You should work through the CFD and look at the performance and
   parallel scalability of the code.
