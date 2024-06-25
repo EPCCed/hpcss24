@@ -112,7 +112,7 @@ Things you might like to investigate:
 
   To see the code and exercise sheets, go to:
 
-    https://github.com/EPCCed/hpcss24-sharpen
+    [https://github.com/EPCCed/hpcss24-sharpen](https://github.com/EPCCed/hpcss24-sharpen)
 
   To get these onto Cirrus just use:
 
