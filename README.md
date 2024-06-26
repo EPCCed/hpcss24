@@ -105,7 +105,6 @@ Things you might like to investigate:
   * [Hardware](slides/L04_CPUMemAcc.pdf)
   * [Parallel Programming Models](slidesL07_ParallelModels.pdf)
 
-### Wednesday PM
 
   You should work through the Image Sharpening worksheet and look at
   the performance and parallel scalability of the code.
@@ -115,6 +114,13 @@ Things you might like to investigate:
   To get these onto Cirrus just use:
 
     git clone https://github.com/EPCCed/hpcss24-sharpen
+
+### Wednesday PM
+
+ There are also OpenMP and (serial) Python versions that you could look at.
+
+   * How does the scalabilty of the OpenMP code (using threads not processes) compare to MPI?
+   * How does using OpenMP limit the ultimate speed of the program compare to MPI?
 
 ### Thursday AM
 
