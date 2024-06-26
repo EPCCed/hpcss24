@@ -97,6 +97,9 @@ Things you might like to investigate:
 
 ### Wednesday AM
 
+  * Go to https://b.socrative.com/login/student/
+  * "Room" is HPCQUIZ
+
   Here are the slides for the Introduction to HPC:
 
   * [Why HPC](slides/L01_WhyHPC.pdf)
