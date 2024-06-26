@@ -106,7 +106,7 @@ Things you might like to investigate:
   * [Image Sharpening](slides/L02_Sharpen.pdf)
   * [Parallel Programming](slides/L03_ParallelProgramming.pdf)
   * [Hardware](slides/L04_CPUMemAcc.pdf)
-  * [Parallel Programming Models](slidesL07_ParallelModels.pdf)
+  * [Parallel Programming Models](slides/L07_ParallelModels.pdf)
 
 
   You should work through the Image Sharpening worksheet and look at
