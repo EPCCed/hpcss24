@@ -115,6 +115,14 @@ Things you might like to investigate:
 
     git clone https://github.com/EPCCed/hpcss24-sharpen
 
+We have a reservation of 8 nodes for fast turnaround all day today. To use this:
+
+````
+    #SBATCH --qos=reservation
+    #SBATCH --reservation=tc063_Q2482854
+````
+    
+
 ### Wednesday PM
 
  There are also OpenMP and (serial) Python versions that you could look at.
