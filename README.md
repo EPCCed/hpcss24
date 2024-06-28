@@ -130,7 +130,7 @@ We have a reservation of 8 nodes for fast turnaround all day today. To use this:
 
  There are also OpenMP and (serial) Python versions that you could look at.
 
-   * How does the scalabilty of the OpenMP code (using threads not processes) compare to MPI?
+   * How does the scalability of the OpenMP code (using threads not processes) compare to MPI?
    * How does using OpenMP limit the ultimate speed of the program compare to MPI?
 
 ### Thursday AM
@@ -139,7 +139,7 @@ We have a reservation of 8 nodes for fast turnaround all day today. To use this:
 
 ### Thursday PM
 
-  Yoy are welcome to continue with Ludovic's OpenMP
+  You are welcome to continue with Ludovic's OpenMP
   exercises. However, if you want to tackle something different see
   below:
 
@@ -181,3 +181,23 @@ We have a reservation of 8 nodes for fast turnaround all day today. To use this:
   parameters and running with a finite value of the Reynolds number,
   e.g. 2.0? Can you see what the problem is? Can you fix it by adding
   appropriate OpenMP directives?
+
+### Friday PM
+
+  Ludovic will continue his OpenMP workshop
+
+### Friday PM
+
+  The way that `dosharpen` is parallelised in OpenMP is a bit weird - it is done by hand and does not use `parallel for`.
+
+  Rewrite the code so it uses `parallel for` over the first loop
+  rather than switching based on the value of `pixcount`. Is the
+  performance similar to the original version? What loop schedule
+  should you use - does it make a difference to performance?
+
+  Here is a version of `dosharpen` written deliberately to have load
+  imbalance across the image (the width of the filter is varied across
+  the image from `2` to `d-2`. As above, rewrite the code to use
+  `parallel for`. Does the loop schedule affect performance for the
+  load-imbalanced sharpening algorithm? What is the best schedule -
+  `static`, `dynamic`. ... ?
