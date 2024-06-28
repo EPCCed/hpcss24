@@ -195,9 +195,9 @@ We have a reservation of 8 nodes for fast turnaround all day today. To use this:
   performance similar to the original version? What loop schedule
   should you use - does it make a difference to performance?
 
-  Here is a version of `dosharpen` written deliberately to have load
-  imbalance across the image (the width of the filter is varied across
-  the image from `2` to `d-2`. As above, rewrite the code to use
-  `parallel for`. Does the loop schedule affect performance for the
-  load-imbalanced sharpening algorithm? What is the best schedule -
-  `static`, `dynamic`. ... ?
+  [Here is a version of `dosharpen`](docs/dosharpen.c) written
+  deliberately to have load imbalance across the image (the width of
+  the filter is varied across the image from `2` to `d-2`. As above,
+  rewrite the code to use `parallel for`. Does the loop schedule
+  affect performance for the load-imbalanced sharpening algorithm?
+  What is the best schedule - `static`, `dynamic`. ... ?
