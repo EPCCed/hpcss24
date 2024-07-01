@@ -182,7 +182,7 @@ We have a reservation of 8 nodes for fast turnaround all day today. To use this:
   e.g. 2.0? Can you see what the problem is? Can you fix it by adding
   appropriate OpenMP directives?
 
-### Friday PM
+### Friday AM
 
   Ludovic will continue his OpenMP workshop
 
@@ -201,3 +201,28 @@ We have a reservation of 8 nodes for fast turnaround all day today. To use this:
   above, rewrite the code to use `parallel for`. Does the loop
   schedule affect performance for the load-imbalanced sharpening
   algorithm?  What is the best schedule - `static`, `dynamic`. ... ?
+
+### Monday AM
+
+  Ludovic will distribute slide for his OpenMP GPU offload workshop
+
+### Monday PM
+
+  There is a lot to learn for GPU offload so please continue with
+  exercises from this morning, but I have added a "C-GPU" directory to
+  the hpcss24-cfd git repo which contains a simple example of using
+  these directives for the cfd example.
+
+  As for the previous OpenMP example the code only currently works for
+  the simpler case when you do not specify a Reynolds number (i.e. for
+  inviscid / irrotational flow). If you want you can try to extend to
+  the general case.
+
+  When measuring performance you will need to run much larger problems
+  than for the CPU as you need a lot of grid points to keep the very
+  large number of GPU threads active. You will also need to run for a
+  large number of iterations to get reliable performance results: for
+  large problems the cost of copying data to and from the GPU can be
+  significant.
+
+  The reservation for today is `tc063_1270277`
