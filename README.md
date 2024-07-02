@@ -336,3 +336,19 @@ first talk to ensure you get a free breakfast!
 |11:00 - 11:30| Tea, coffee and biscuits (provided) |
 |11:30 - 12:30| Time Dykes (HPE) "Past, Present and Future of Supercomputing" |
 |12:30 - 13:30| Lunch (provided) |
+
+### Friday PM
+
+You can carry on the MPI exercises. You should now know enough to
+understand the whole if the CFD code including data distribution and
+collection with scatter and gather, and the way that the error value
+is accumulated across processes using a reduction operation.
+
+If you're looking for a challenge, try using non-blocking
+communications for the halo swapping. This can be done in several ways
+including:
+
+  * Non-blocking send, blocking receive and wait.
+  * Non-blocking receive, blocking send and wait.
+  * Non-blocking send, non-blocking receive and waitall.
+  
