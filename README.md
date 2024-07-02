@@ -226,3 +226,36 @@ We have a reservation of 8 nodes for fast turnaround all day today. To use this:
   significant.
 
   The reservation for today is `tc063_1270277`
+
+### Tuesday AM
+
+  Ludovic will conclude his GPU offload lectures.
+
+### Tuesday PM
+
+  As ever, continue working on this morning's material if you
+  want. However, feel free to look at the CFD example (described
+  above).  The reservation for today is `tc063_1270283`
+
+### Wednesday AM
+
+  Ludovic will introduce MPI
+
+### Wednesday PM
+
+  If you have finished this morning's exercises, take a look at the
+  MPI CFD example and check you understand how it works. In
+  particular, look at the may that the array is scattered to and
+  gathered from the parallel processes and how they exchange halo
+  information.
+
+### Thursday  AM
+
+  David will conclude the MPI material. I will finish by 12:30 at the
+  very latest to give you time for lunch before the ACF tour this
+  afternoon.
+
+### Thursday PM
+
+  We will heading out to the (https://www.epcc.ed.ac.uk/hpc-services/advanced-computing-facility)[Advanced Computing Facility) which is about 10km south of the Bayes Centre - see https://www.google.com/maps/place/ACF+Building/@55.855546,-3.2347334,14z/data=!4m10!1m2!2m1!1sacf+computer+centre!3m6!1s0x4887c0f3885f5f89:0xda060412b31a29b!8m2!3d55.855546!4d-3.1997145!15sChNhY2YgY29tcHV0ZXIgY2VudHJlkgEVdW5pdmVyc2l0eV9kZXBhcnRtZW504AEA!16s%2Fg%2F11byyg8n5q?entry=ttu
+
