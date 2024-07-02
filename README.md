@@ -339,10 +339,12 @@ first talk to ensure you get a free breakfast!
 
 ### Friday PM
 
-You can carry on the MPI exercises. You should now know enough to
-understand the whole if the CFD code including data distribution and
-collection with scatter and gather, and the way that the error value
-is accumulated across processes using a reduction operation.
+You can carry on with the MPI exercises if you want.
+
+You should now know enough to understand the whole if the CFD code
+including data distribution and collection with scatter and gather,
+and the way that the error value is accumulated across processes using
+a reduction operation.
 
 If you're looking for a challenge, try using non-blocking
 communications for the halo swapping. This can be done in several ways
