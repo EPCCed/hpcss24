@@ -322,10 +322,10 @@ first talk to ensure you get a free breakfast!
 | Time | Event |
 | --- | ---  |
 |09:00 - 09:30| Tea, coffee and cakes (provided) |
-|09:30 - 10:15| Julien Sindt: "Research with EPCC" |
-|10:15 - 11:00| Oliver Brown: "Introduction to Quantum Computing" |
+|09:30 - 10:15| Julien Sindt (EPCC) "Research with EPCC" |
+|10:15 - 11:00| Oliver Brown(EPCC) "Introduction to Quantum Computing" |
 |11:00 - 11:30| Tea, coffee and biscuits (provided) |
-|11:30 - 12:30| HPE Speaker: "Past, Present and Future of Supercomputing" |
+|11:30 - 12:30| Time Dykes (HPE) "Past, Present and Future of Supercomputing" |
 |12:30 - 13:30| Lunch (provided) |
 
 ## Overview
