@@ -320,7 +320,7 @@ experts. Catering will be provided so please arrive well before the
 first talk to ensure you get a free breakfast!
 
 | Time | Event |
-| --- | ---  | --- |
+| --- | ---  |
 |09:00 - 09:30| Tea, coffee and cakes (provided) |
 |09:30 - 10:15| Julien Sindt: "Research with EPCC" |
 |10:15 - 11:00| Oliver Brown: "Introduction to Quantum Computing" |
