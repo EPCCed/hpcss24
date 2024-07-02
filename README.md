@@ -263,18 +263,18 @@ We have a reservation of 8 nodes for fast turnaround all day today. To use this:
   We will heading out to the [Advanced Computing Facility](https://www.epcc.ed.ac.uk/hpc-services/advanced-computing-facility). The ACF Bulidng is about 10km south of the Bayes Centre - see [google maps](https://www.google.com/maps/place/ACF+Building/@55.855546,-3.2347334,14z/data=!4m10!1m2!2m1!1sacf+computer+centre!3m6!1s0x4887c0f3885f5f89:0xda060412b31a29b!8m2!3d55.855546!4d-3.1997145!15sChNhY2YgY29tcHV0ZXIgY2VudHJlkgEVdW5pdmVyc2l0eV9kZXBhcnRtZW504AEA!16s%2Fg%2F11byyg8n5q?entry=ttu).
 
 The schedule will be (there is 15 minutes slack at the start of the
-Group 1 bisit in case of lunchtime travel delays):
+Group 1 just in case of lunchtime travel delays):
 
-  o 13:15 Group 1 boards two taxis outside Bayes
-  o 13:45 Group 1 arrives at the ACF
-  o 14:00 Group 1 tour starts
-  o 14:30 Group 2 boards two taxis outside Bayes
-  o 15:00 Group arrives at ACF
-  o 15:00 Group 1 tour finishes and boards taxis for return to Bayes
-  o 15:00 Group 2 tour starts
-  o 15:30 Group 1 arrives back at Bayes
-  o 16:00 Group 2 tour finishes and boards taxis for return to Bayes
-  o 16:30 Group 2 arrives back at Bayes
+ o 13:15 Group 1 boards two taxis outside Bayes
+ o 13:45 Group 1 arrives at the ACF
+ o 14:00 Group 1 tour starts
+ o 14:30 Group 2 boards two taxis outside Bayes
+ o 15:00 Group arrives at ACF
+ o 15:00 Group 1 tour finishes and boards taxis for return to Bayes
+ o 15:00 Group 2 tour starts
+ o 15:30 Group 1 arrives back at Bayes
+ o 16:00 Group 2 tour finishes and boards taxis for return to Bayes
+ o 16:30 Group 2 arrives back at Bayes
 
 The groups are:
 
