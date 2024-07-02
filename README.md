@@ -258,6 +258,14 @@ We have a reservation of 8 nodes for fast turnaround all day today. To use this:
   Do you understand why this is? How does the performance of
   `MPI_Bsend` compare?
 
+  For these tests it is best to use relatively small simulation sizes
+  but run for many iterations (to keep the runtime at several
+  seconds). Although this might not give you very good parallel
+  efficiency, it does magnify the effects of the time spent in MPI
+  routines. This is useful when you're interesting in MPI efficiency
+  as opposed to overall performance including both communication and
+  calculation.
+
   You should **always** check that your code is correct. The easiest
   test is that the `error` value printed at the end is the same.
 
