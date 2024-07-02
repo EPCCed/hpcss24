@@ -265,16 +265,16 @@ We have a reservation of 8 nodes for fast turnaround all day today. To use this:
 The schedule will be (there is 15 minutes slack at the start of the
 Group 1 just in case of lunchtime travel delays).
 
- * 13:15 **Group 1** boards two taxis outside Bayes
- * 13:45 Group 1 arrives at the ACF
- * 14:00 Group 1 tour starts
- * 14:30 Group 2 boards two taxis outside Bayes
- * 15:00 Group 2 arrives at ACF
- * 15:00 Group 1 tour finishes and boards taxis for return to Bayes
- * 15:00 Group 2 tour starts
- * 15:30 Group 1 arrives back at Bayes
- * 16:00 Group 2 tour finishes and boards taxis for return to Bayes
- * 16:30 Group 2 arrives back at Bayes
+ * **13:15** Group 1 boards two taxis outside Bayes
+ * **13:45** Group 1 arrives at the ACF
+ * **14:00** Group 1 tour starts
+ * **14:30** Group 2 boards two taxis outside Bayes
+ * **15:00** Group 2 arrives at ACF
+ * **15:00** Group 1 tour finishes and boards taxis for return to Bayes
+ * **15:00** Group 2 tour starts
+ * **15:30** Group 1 arrives back at Bayes
+ * **16:00** Group 2 tour finishes and boards taxis for return to Bayes
+ * **16:30** Group 2 arrives back at Bayes
 
 Someone from EPCC will travel with each group (in one of the two
 taxis).
