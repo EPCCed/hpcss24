@@ -257,5 +257,5 @@ We have a reservation of 8 nodes for fast turnaround all day today. To use this:
 
 ### Thursday PM
 
-  We will heading out to the (https://www.epcc.ed.ac.uk/hpc-services/advanced-computing-facility)[Advanced Computing Facility) which is about 10km south of the Bayes Centre - see https://www.google.com/maps/place/ACF+Building/@55.855546,-3.2347334,14z/data=!4m10!1m2!2m1!1sacf+computer+centre!3m6!1s0x4887c0f3885f5f89:0xda060412b31a29b!8m2!3d55.855546!4d-3.1997145!15sChNhY2YgY29tcHV0ZXIgY2VudHJlkgEVdW5pdmVyc2l0eV9kZXBhcnRtZW504AEA!16s%2Fg%2F11byyg8n5q?entry=ttu
+  We will heading out to the [Advanced Computing Facility](https://www.epcc.ed.ac.uk/hpc-services/advanced-computing-facility) which is about 10km south of the Bayes Centre - see https://www.google.com/maps/place/ACF+Building/@55.855546,-3.2347334,14z/data=!4m10!1m2!2m1!1sacf+computer+centre!3m6!1s0x4887c0f3885f5f89:0xda060412b31a29b!8m2!3d55.855546!4d-3.1997145!15sChNhY2YgY29tcHV0ZXIgY2VudHJlkgEVdW5pdmVyc2l0eV9kZXBhcnRtZW504AEA!16s%2Fg%2F11byyg8n5q?entry=ttu
 
