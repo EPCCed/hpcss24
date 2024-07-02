@@ -253,9 +253,10 @@ We have a reservation of 8 nodes for fast turnaround all day today. To use this:
   can replace it with separate send and receive functions.
 
   If you are brave, try versions using `MPI_Send` and `MPI_Ssend`. Do
-  they both run correctly? How does the perforance compare when you
-  run on multiple nodes, say 128 processes? Do you understand why this
-  is? How does the performance of `MPI_Bsend` compare?
+  they both run correctly? How does the performance compare between
+  the two versions when you run on multiple nodes, say 128 processes?
+  Do you understand why this is? How does the performance of
+  `MPI_Bsend` compare?
 
   You should **always** check that your code is correct. The easiest
   test is that the `error` value printed at the end is the same.
@@ -327,6 +328,3 @@ first talk to ensure you get a free breakfast!
 |11:00 - 11:30| Tea, coffee and biscuits (provided) |
 |11:30 - 12:30| Time Dykes (HPE) "Past, Present and Future of Supercomputing" |
 |12:30 - 13:30| Lunch (provided) |
-
-## Overview
-
