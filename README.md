@@ -244,7 +244,7 @@ We have a reservation of 8 nodes for fast turnaround all day today. To use this:
 ### Wednesday PM
 
   If you have finished this morning's exercises, there are exercises
-  from a recent ARCHER2 MPI course that you can looj at - see https://github.com/EPCCed/archer2-MPI-2024-04-03#Exercise-Material
+  from a recent ARCHER2 MPI course that you can look at - see https://github.com/EPCCed/archer2-MPI-2024-04-03#Exercise-Material
 
   See the "MPI exercise sheet". If you want to take a peek, solutions
   are available in "Detailed solutions to pi calculation example" and
